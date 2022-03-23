@@ -1,0 +1,412 @@
+/*Homepage*/
+
+/*Headings*/
+
+h4 {
+    font-family: "Montserrat-Light";
+    size: 3rem;
+    line-height: 1.5;
+    display: inline;
+    justify-content: center;
+    margin-right: 16px;
+}
+
+.navbar-brand {
+    height: 0.5px;
+}
+
+/*nav bar*/
+
+.container {
+    margin-top: 14px;
+}
+
+/*Images and home button*/
+
+.logo-image{
+    margin-left: 700px;
+}
+
+.btn1 {
+    background-color: white;
+    border: none;
+    padding: 4px 9px;
+    font-size: 20px;
+    cursor: pointer;
+    margin-left: 550px;
+}
+
+.btn2 {
+    background-color: white;
+    border: none;
+    font-size: 20px;
+    cursor: pointer;
+    
+
+}
+
+.fa-solid {
+    color: red;
+}
+
+
+/*Header*/
+
+.site-header {
+    background-color: rgb(250, 253, 253);
+    -webkit-backdrop-filter: saturate(50%) blur(10px);
+    backdrop-filter: saturate(50%) blur(10px);
+}
+
+.site-header a {
+    color: #271d1d;
+    transition: color .15s ease-in-out;
+}
+
+.site-header a:hover {
+    color: rgb(10, 9, 9);
+    text-decoration: none;
+}
+
+/*Main with three images*/
+.Kazakhstan {
+    position: absolute;
+    right: 15%;
+    bottom: -30%;
+    width: 300px;
+    height: 540px;
+    border-radius: 21px;
+    transform: rotate(25deg);
+}
+
+.KazakhKhanate {
+    position: absolute;
+    left: 18%;
+    bottom: -35%;
+    width: 300px;
+    height: 460px;
+    border-radius: 30px;
+    transform: rotate(-25deg);
+}
+
+.KazakhKhanateCountryball {
+     position: absolute;
+     left: 3%;
+     bottom: -35%;
+     width: 300px;
+     height: 600px;
+     border-radius: 30px;
+     transform: rotate(-5deg);
+}
+
+/*Carousel*/
+
+section {
+    background-color: #95C9FF;
+}
+
+.flag {
+    position: absolute;
+    top: 150px;
+}
+
+.carousel-item {
+    padding: 7% 15%;
+}
+
+.text {
+    margin-left: 150px;
+    padding-left: 150px;
+}
+/*End of the Homepage*/
+
+/*History section*/
+
+#history1 {
+    background-color: #fff;
+}
+
+.Golden1 {
+    width: 1200px;
+    float: right;
+    padding-right: 50px;
+    padding-top: 2rem;
+}
+
+.Goldenhead {
+    padding-top: 2rem;
+    padding-left: 3rem;
+}
+
+.ImgGolden {
+    padding-top: 0.5rem;
+    padding-left: 3rem;
+}
+
+.Golden2 {
+    padding-right: 50px;
+    padding-top: 2rem;
+    padding-left: 3rem;
+}
+
+.Golden3 {
+    padding-right: 50px;
+    padding-left: 3rem;
+}
+
+.Golden4 {
+    padding-right: 50px;
+    padding-left: 3rem;
+}
+
+#history2 {
+    background-color: #fff;
+}
+
+.Whitehead {
+    padding-top: 1rem;
+    padding-left: 3rem;
+}
+
+.ImgWhite {
+    padding-top: 0.5rem;
+    padding-left: 3rem;
+}
+
+.White1 {
+    width: 1200px;
+    float: right;
+    padding-right: 50px;
+    padding-top: 1rem;
+}
+
+.White2 {
+    padding-right: 50px;
+    padding-top: 2rem;
+    padding-left: 3rem;
+}
+
+.White3 {
+    padding-right: 50px;
+    padding-left: 3rem;
+}
+
+.White4 {
+    padding-right: 50px;
+    padding-left: 3rem;
+}
+
+#history3 {
+    background-color: #fff;
+}
+
+.Kazakhhead {
+    padding-top: 1rem;
+    padding-left: 3rem;
+}
+
+.ImgKazakh {
+    padding-top: 0.5rem;
+    padding-left: 3rem;
+}
+
+.Kazakh1 {
+    width: 1200px;
+    float: right;
+    padding-right: 50px;
+    padding-top: 1rem;
+}
+
+.Kazakh2 {
+    padding-right: 50px;
+    padding-top: 2rem;
+    padding-left: 3rem;
+}
+
+.Kazakh3 {
+    padding-right: 50px;
+    padding-left: 3rem;
+}
+
+.Kazakh4 {
+    padding-right: 50px;
+    padding-left: 3rem;
+}
+
+#history4 {
+    background-color: #fff;
+}
+
+.Kazakhhead1 {
+    padding-top: 1rem;
+    padding-left: 3rem;
+}
+
+.ImgKazakhstan {
+    padding-top: 0.5rem;
+    padding-left: 3rem;
+}
+
+.Kazakhstan1 {
+    width: 1200px;
+    float: right;
+    padding-right: 50px;
+    padding-top: 1rem;
+}
+
+.Kazakhstan2 {
+    padding-right: 50px;
+    padding-top: 2rem;
+    padding-left: 3rem;
+}
+
+.Kazakhstan3 {
+    padding-right: 50px;
+    padding-left: 3rem;
+}
+
+.Kazakhstan4 {
+    padding-right: 50px;
+    padding-left: 3rem;
+}
+
+/*Trip*/
+
+.City {
+    display: flex;
+    justify-content: center;
+    padding-bottom: 1rem;
+    padding-top: 1rem;
+}
+
+.Capital {
+    width: 250px;
+    float: right;
+    padding-right: 5px;
+    
+}
+
+/*Cost*/
+
+.pricing-header {
+    max-width: 500px;
+   
+}
+
+.row {
+    display: flex;
+    justify-content: center;
+}
+
+/*Booking*/
+
+#booking {
+    max-width: 1500px;
+    display: flex;
+    justify-content: center;
+    padding-top: 2rem;
+}
+
+/*Covid*/
+
+#Covid {
+    background-color: #fff;
+}
+
+.Covidhead {
+    padding-top: 2rem;
+    padding-left: 3rem;
+}
+
+.Covid1 {
+    width: 1200px;
+    float: right;
+    padding-right: 50px;
+    padding-top: 2rem;
+}
+
+.Covid2 {
+    padding-right: 50px;
+    padding-top: 1rem;
+    padding-left: 3rem;
+}
+
+.Covid3 {
+    padding-right: 50px;
+    padding-left: 3rem;
+}
+
+.Covid4 {
+    padding-right: 50px;
+    padding-left: 3rem;
+}
+
+/*new Covid graph*/
+
+#Linegraph {
+    position: absolute;
+    left: 43px;
+}
+
+.graph {
+   width: 950px;
+   float: right;
+}
+
+/*Login*/
+
+.form-signin {
+    width: 100%;
+    max-width: 330px;
+    padding: 15px;
+    margin: auto;
+    margin-top: 100px;
+}
+
+
+.form-signin input[type="email"] {
+    margin-bottom: -1px;
+    border-bottom-right-radius: 0;
+    border-bottom-left-radius: 0;
+}
+
+.form-signin input[type="password"] {
+    margin-bottom: 0px;
+    border-top-left-radius: 0;
+    border-top-right-radius: 0;
+}
+
+
+/*Register*/
+
+.form-signin {
+    width: 100%;
+    max-width: 360px;
+    padding: 15px;
+    margin: auto;
+    margin-top: 200px;
+}
+
+.form-signin input[type="password1"] {
+    margin-bottom: 0px;
+    border-top-left-radius: 0;
+    border-top-right-radius: 0;
+}
+
+.form-signin input[type="password2"] {
+    margin-bottom: 10px;
+    border-top-left-radius: 0;
+    border-top-right-radius: 0;
+}
+
+
+/*new 1*/
+
+#container1 {
+    margin-left: 280px;
+}
+
+
+
+
+
