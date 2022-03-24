@@ -35,6 +35,7 @@
             <a class="py-2 d-none d-md-inline-block" href="Trip.php">Trip</a>
             <a class="py-2 d-none d-md-inline-block" href="Cost.php">Cost</a>
             <a class="py-2 d-none d-md-inline-block" href="Covid.php">Covid</a>
+            <a class="py-2 d-none d-md-inline-block" href="upload_story.php">Story</a>
             <a class="py-2 d-none d-md-inline-block" href="Register.php">Sign up</a>
             <a class="py-2 d-none d-md-inline-block" href="Login.php">Sign in</a>
         </nav>
