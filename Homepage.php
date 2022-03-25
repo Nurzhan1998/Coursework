@@ -23,6 +23,7 @@
     <header class="site-header sticky-top py-1">
         <img class="logo-image" src="Images_Homepage\Kazakhstan.svg.png" alt="Logo-Kazakhstan" height="50px">
         <h4>Zaman</h4>
+        <button class="btn1"><a href="Logout.php"><i class="fa-solid fa-right-from-bracket fa-lg"></i></a></button>
         <br>
         <!--navigation bar-->
         <nav class="container d-flex flex-column flex-md-row justify-content-between">
